@@ -1,4 +1,4 @@
-# OracleScripts
+# Oracle Scripts
 Various scripts I use for Oracle databases
 
 Other useful sites: 
