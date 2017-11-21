@@ -1,6 +1,8 @@
 # Oracle Scripts
 Various scripts I use for Oracle databases
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE "MIT License Copyright © 2017 Anthony Duguid")
+
 Other useful sites: 
 
 * https://oracle-base.com/dba/scripts 
