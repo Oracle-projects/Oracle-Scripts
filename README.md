@@ -1,6 +1,6 @@
-<img align="left" src="Images/ReadMe/Oracle.png" width="256px" >
+<img src="Images/ReadMe/Oracle.png" width="256px" >
 
-# Scripts
+# Oracle Scripts
 Various scripts I use for Oracle databases
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE "MIT License Copyright © 2017 Anthony Duguid")
