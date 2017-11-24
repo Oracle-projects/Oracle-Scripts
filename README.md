@@ -1,4 +1,4 @@
-<img src="Images/ReadMe/Oracle.png" width="256px" >
+<img align="left" src="Images/ReadMe/Oracle.png" width="256px" >
 
 # Scripts
 Various scripts I use for Oracle databases
